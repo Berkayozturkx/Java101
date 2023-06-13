@@ -1,0 +1,1 @@
+Dizide tekrar eden tek sayıları bulan program

@@ -1,0 +1,1 @@
+Dizideki Elemanların Max ve Min Değerlerini Bulan Program
